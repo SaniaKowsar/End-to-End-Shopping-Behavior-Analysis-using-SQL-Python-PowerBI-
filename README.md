@@ -52,7 +52,9 @@ An interactive Power BI dashboard was built to visualize:
 
 ## 🛠 Tools & Technologies
 
-* **Python** (Pandas, NumPy, Matplotlib)
+* **Python**
+* **Pandas, NumPy**
+* **Matplotlib, Seaborn**
 * **PostgreSQL (SQL)**
 * **Power BI**
 * **Jupyter Notebook**
